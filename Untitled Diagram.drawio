@@ -14,7 +14,7 @@
           <mxGeometry x="680" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="60" width="480" height="395" as="geometry" />
+          <mxGeometry x="150" y="10" width="480" height="445" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-3" value="Information doctor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="110" height="60" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry x="305" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-5" value="Self illness&amp;nbsp;diagnosis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="100" width="110" height="60" as="geometry" />
+          <mxGeometry x="180" y="240" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-6" value="Chat room" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="250" width="100" height="60" as="geometry" />
+          <mxGeometry x="260" y="70" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-7" value="&lt;div&gt;Login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="190" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nx0tE2UZjKB8xVgEcII-2" target="64yVkqV5qo0Nr_YxNSAC-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,14 +55,44 @@
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-18" value="forum manament" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="300" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="64yVkqV5qo0Nr_YxNSAC-21" value="Consultations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="250" width="100" height="60" as="geometry" />
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-21" value="Book Consultations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-23" value="Manage User Accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="350" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-24" value="access mental health knowledge resources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Mental Health System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="20" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="400" as="sourcePoint" />
+            <mxPoint x="120" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1nx0tE2UZjKB8xVgEcII-1" target="64yVkqV5qo0Nr_YxNSAC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="420" as="sourcePoint" />
+            <mxPoint x="140" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-29" value="Conduct Consultations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-31" value="Access Patient Records" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-32" value="Access Patient Records" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="235" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
