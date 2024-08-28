@@ -11,25 +11,25 @@
           <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1nx0tE2UZjKB8xVgEcII-3" value="System Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="680" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="85" width="440" height="370" as="geometry" />
+          <mxGeometry x="150" y="60" width="480" height="395" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-3" value="Information doctor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="110" height="60" as="geometry" />
+          <mxGeometry x="200" y="340" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-4" value="forum manament" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="305" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-5" value="Self illness&amp;nbsp;diagnosis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="100" width="100" height="60" as="geometry" />
+          <mxGeometry x="310" y="100" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-6" value="Chat room" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-7" value="&lt;div&gt;Login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nx0tE2UZjKB8xVgEcII-2" target="64yVkqV5qo0Nr_YxNSAC-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,10 +44,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="64yVkqV5qo0Nr_YxNSAC-13" value="Guest User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="140" width="30" height="60" as="geometry" />
+          <mxGeometry x="680" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="64yVkqV5qo0Nr_YxNSAC-15" value="Post&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="320" width="110" height="60" as="geometry" />
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-16" value="Manage Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-17" value="Engage in forum" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-18" value="forum manament" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="300" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-21" value="Consultations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-23" value="Manage User Accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64yVkqV5qo0Nr_YxNSAC-24" value="access mental health knowledge resources" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="200" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
